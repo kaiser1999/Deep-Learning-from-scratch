@@ -28,7 +28,7 @@ For the derivations and explanations of these codes, please refer to the book [1
 # Examples
 There are two simple examples:
 1. MNIST [2]: Require tensorflow
-2. Bitcoin price prediction: downloaded from https://www.CryptoDataDownload.com
+2. Bitcoin price prediction: downloaded from [3]
 
 # Reference
 [1]: Kaiser Fan, Phillip Yam (Expected 2024) . Statistical Deep Learning with Python and R.
