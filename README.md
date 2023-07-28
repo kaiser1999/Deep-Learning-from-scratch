@@ -22,13 +22,14 @@ We here provide the codes for the construction of a deep learning model from scr
 12. Gated Recurrent Unit (**_GRU_**) Layer
 13. Long-Short Term Memory (**_LSTM_**) Layer
 
-For the derivations and explanations of these codes, please refer to the book:
-Kaiser Fan, Phillip Yam (Expected 2024) . Statistical Deep Learning with Python and R.
+For the derivations and explanations of these codes, please refer to the book [1].
+
 
 # Examples
 There are two simple examples:
-1. MNIST: Require tensorflow
+1. MNIST [2]: Require tensorflow
 2. Bitcoin price prediction: downloaded from https://www.CryptoDataDownload.com
 
 # Reference
-Deng, L. (2012). The mnist database of handwritten digit images for machine learning research. IEEE Signal Processing Magazine, 29(6), 141–142.
+[1] 1. Kaiser Fan, Phillip Yam (Expected 2024) . Statistical Deep Learning with Python and R.
+[2] 2. Deng, L. (2012). The mnist database of handwritten digit images for machine learning research. IEEE Signal Processing Magazine, 29(6), 141–142.
