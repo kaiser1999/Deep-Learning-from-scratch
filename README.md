@@ -31,5 +31,5 @@ There are two simple examples:
 2. Bitcoin price prediction: downloaded from https://www.CryptoDataDownload.com
 
 # Reference
-[1] 1. Kaiser Fan, Phillip Yam (Expected 2024) . Statistical Deep Learning with Python and R.
-[2] 2. Deng, L. (2012). The mnist database of handwritten digit images for machine learning research. IEEE Signal Processing Magazine, 29(6), 141–142.
+[1]: Kaiser Fan, Phillip Yam (Expected 2024) . Statistical Deep Learning with Python and R.
+[2]: Deng, L. (2012). The mnist database of handwritten digit images for machine learning research. IEEE Signal Processing Magazine, 29(6), 141–142.
