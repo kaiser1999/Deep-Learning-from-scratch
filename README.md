@@ -34,3 +34,5 @@ There are two simple examples:
 [1]: Kaiser Fan, Phillip Yam (Expected 2024) . Statistical Deep Learning with Python and R.
 
 [2]: Deng, L. (2012). The mnist database of handwritten digit images for machine learning research. IEEE Signal Processing Magazine, 29(6), 141–142.
+
+[3]: Prasoon K. (2022). Bitcoin Historical Dataset. Retrieved December 25, 2022 from https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd
