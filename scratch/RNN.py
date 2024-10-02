@@ -204,7 +204,7 @@ class GRU(Layer):
             
             err_tilde_h = err * delta_tilde_h[t,:] * self.u[t,:]
             
-            err_r = delta_r[t,:] * (self.V_tilde_h.T @ err_tilde_h)
+            err_r = delta_r[t,:] * self.h[t,:] * (self.V_tilde_h.T @ err_tilde_h)
             dg_W_r += err_r @ self.x[t,:].T
             dg_V_r += err_r @ self.h[t,:].T
             dg_b_r += np.sum(err_r, axis=-1).reshape(-1, 1)
